@@ -1,0 +1,42 @@
+Product_ID: 2, Name: lala, CategoryBySeason: Summer, PricePerKG: 100, IsInStock: True.
+Product_ID: 1, Name: Banana, CategoryBySeason: Whole_year, PricePerKG: 50, IsInStock: True.
+Product_ID: 3, Name: Mango, CategoryBySeason: Summer, PricePerKG: 55, IsInStock: False.
+Product_ID: 4, Name: Pineapple, CategoryBySeason: Winter, PricePerKG: 40, IsInStock: False.
+
+
+When i again fetch, i see fruit name lala was applied on a copied version, original remains okay..
+Product_ID: 2, Name: Jackfruit, CategoryBySeason: Summer, PricePerKG: 100, IsInStock: True.
+Product_ID: 1, Name: Banana, CategoryBySeason: Whole_year, PricePerKG: 50, IsInStock: True.
+Product_ID: 3, Name: Mango, CategoryBySeason: Summer, PricePerKG: 55, IsInStock: False.
+Product_ID: 4, Name: Pineapple, CategoryBySeason: Winter, PricePerKG: 40, IsInStock: False.
+
+
+The summer fruits available:-
+Product_ID: 2, Name: Jackfruit, CategoryBySeason: Summer, PricePerKG: 100, IsInStock: True.
+Product_ID: 3, Name: Mango, CategoryBySeason: Summer, PricePerKG: 55, IsInStock: False.
+
+
+The winter fruits available:-
+Product_ID: 4, Name: Pineapple, CategoryBySeason: Winter, PricePerKG: 40, IsInStock: False.
+
+
+The fruits (in stock):-
+Product_ID: 2, Name: Jackfruit, CategoryBySeason: Summer, PricePerKG: 100, IsInStock: True.
+Product_ID: 1, Name: Banana, CategoryBySeason: Whole_year, PricePerKG: 50, IsInStock: True.
+
+
+The fruits (out of stock):-
+Product_ID: 3, Name: Mango, CategoryBySeason: Summer, PricePerKG: 55, IsInStock: False.
+Product_ID: 4, Name: Pineapple, CategoryBySeason: Winter, PricePerKG: 40, IsInStock: False.
+
+
+Searh all fruits whose name contains 'an':-
+Product_ID: 1, Name: Banana, CategoryBySeason: Whole_year, PricePerKG: 50, IsInStock: True.
+Product_ID: 3, Name: Mango, CategoryBySeason: Summer, PricePerKG: 55, IsInStock: False.
+
+
+Items on Cart:-
+Banana -> 0.6
+Mango -> 5
+
+

@@ -1,0 +1,16 @@
+D:\DOTNET\Assignment\fruit-shop\bin\Debug\net5.0\fruit-shop.exe
+D:\DOTNET\Assignment\fruit-shop\bin\Debug\net5.0\fruit-shop.deps.json
+D:\DOTNET\Assignment\fruit-shop\bin\Debug\net5.0\fruit-shop.runtimeconfig.json
+D:\DOTNET\Assignment\fruit-shop\bin\Debug\net5.0\fruit-shop.runtimeconfig.dev.json
+D:\DOTNET\Assignment\fruit-shop\bin\Debug\net5.0\fruit-shop.dll
+D:\DOTNET\Assignment\fruit-shop\bin\Debug\net5.0\ref\fruit-shop.dll
+D:\DOTNET\Assignment\fruit-shop\bin\Debug\net5.0\fruit-shop.pdb
+D:\DOTNET\Assignment\fruit-shop\obj\Debug\net5.0\fruit-shop.csproj.AssemblyReference.cache
+D:\DOTNET\Assignment\fruit-shop\obj\Debug\net5.0\fruit-shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET\Assignment\fruit-shop\obj\Debug\net5.0\fruit-shop.AssemblyInfoInputs.cache
+D:\DOTNET\Assignment\fruit-shop\obj\Debug\net5.0\fruit-shop.AssemblyInfo.cs
+D:\DOTNET\Assignment\fruit-shop\obj\Debug\net5.0\fruit-shop.csproj.CoreCompileInputs.cache
+D:\DOTNET\Assignment\fruit-shop\obj\Debug\net5.0\fruit-shop.dll
+D:\DOTNET\Assignment\fruit-shop\obj\Debug\net5.0\ref\fruit-shop.dll
+D:\DOTNET\Assignment\fruit-shop\obj\Debug\net5.0\fruit-shop.pdb
+D:\DOTNET\Assignment\fruit-shop\obj\Debug\net5.0\fruit-shop.genruntimeconfig.cache
